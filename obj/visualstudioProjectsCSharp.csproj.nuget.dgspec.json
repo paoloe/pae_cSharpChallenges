@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ellie\\Documents\\Paolo\\vs_workspace\\visualstudioProjectsCSharp\\visualstudioProjectsCSharp.csproj": {}
+    "/Users/paoloespiritu/Documents/vs_workspace/pae_cSharpChallenges/visualstudioProjectsCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ellie\\Documents\\Paolo\\vs_workspace\\visualstudioProjectsCSharp\\visualstudioProjectsCSharp.csproj": {
+    "/Users/paoloespiritu/Documents/vs_workspace/pae_cSharpChallenges/visualstudioProjectsCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ellie\\Documents\\Paolo\\vs_workspace\\visualstudioProjectsCSharp\\visualstudioProjectsCSharp.csproj",
+        "projectUniqueName": "/Users/paoloespiritu/Documents/vs_workspace/pae_cSharpChallenges/visualstudioProjectsCSharp.csproj",
         "projectName": "visualstudioProjectsCSharp",
-        "projectPath": "C:\\Users\\Ellie\\Documents\\Paolo\\vs_workspace\\visualstudioProjectsCSharp\\visualstudioProjectsCSharp.csproj",
-        "packagesPath": "C:\\Users\\Ellie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ellie\\Documents\\Paolo\\vs_workspace\\visualstudioProjectsCSharp\\obj\\",
+        "projectPath": "/Users/paoloespiritu/Documents/vs_workspace/pae_cSharpChallenges/visualstudioProjectsCSharp.csproj",
+        "packagesPath": "/Users/paoloespiritu/.nuget/packages/",
+        "outputPath": "/Users/paoloespiritu/Documents/vs_workspace/pae_cSharpChallenges/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Ellie\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/paoloespiritu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
         }
       }
     }
